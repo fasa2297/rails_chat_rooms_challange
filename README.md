@@ -1,5 +1,5 @@
 # Rails Chat Room Challenge
-| . |  Lang | Framework |
+| . |  Ruby | Rails |
 |:-----|:--------:|------:|
 | Version | **2.7.8** | **7.0.8** |
 
