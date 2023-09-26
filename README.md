@@ -22,6 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-https://iridakos.com/programming/2019/04/04/creating-chat-application-rails-websockets
-https://github.com/iridakos/rails-chat-tutorial
